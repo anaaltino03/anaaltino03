@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá! Eu sou Ana Laura Altino 👋
 
-<!--
-**anaaltino03/anaaltino03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 16 anos e sou estudante do 2º ano do Ensino Médio, atualmente também cursando o Técnico em Informática no SENAC Americana. Além disso, faço aulas particulares de inglês, buscando sempre ampliar meus conhecimentos e desenvolver novas habilidades.
 
-Here are some ideas to get you started:
+💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse pela área de tecnologia e estou construindo minha trajetória acadêmica e profissional através dos estudos e da prática. O curso técnico tem me proporcionado contato com diferentes áreas da informática, despertando cada vez mais minha curiosidade e vontade de aprender.
+
+📚 Formação e estudos
+
+🎓 Ensino Médio — 2º ano
+💻 Técnico em Informática — SENAC Americana
+  Aulas particulares de Inglês
+
+🎨 Além da tecnologia
+
+Nos meus momentos livres, gosto de pintar, ler e cozinhar. Essas atividades fazem parte da minha rotina e me ajudam a desenvolver criatividade, concentração e curiosidade — habilidades que também considero importantes para minha formação.
+
+🚀 Objetivo
+
+Estou em constante aprendizado e busco aproveitar cada oportunidade para adquirir novos conhecimentos, desenvolver minhas habilidades e construir, aos poucos, meu futuro na área de tecnologia.
+
+Seja bem-vindo(a) ao meu GitHub! ✨
