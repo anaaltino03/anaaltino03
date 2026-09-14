@@ -10,7 +10,7 @@ Tenho interesse pela área de tecnologia e estou construindo minha trajetória a
 
 🎓 Ensino Médio — 2º ano
 💻 Técnico em Informática — SENAC Americana
-  Aulas particulares de Inglês
+  & Curso de Inglês
 
 🎨 Além da tecnologia
 
